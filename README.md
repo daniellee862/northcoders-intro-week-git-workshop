@@ -1,4 +1,4 @@
-# Collaborating with Git
+# Collaborating with Git.
 
 Your task is to work in a pair to practice using git.
 
